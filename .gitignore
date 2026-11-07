@@ -1,0 +1,6 @@
+node_modules/
+dist/
+release/
+public/opencv/opencv.js
+*.log
+.DS_Store
